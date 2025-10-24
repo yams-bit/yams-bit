@@ -1,7 +1,13 @@
-## Hi there 👋
+<h1 align="center">yams-bit | <span style="color:#f9826c">🌱</span></h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yams-bit&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yams-bit&layout=compact&theme=default" alt="Top Languages" width="49%">
+</p>
+
+---
 <!--
-**yams-bit/yams-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unix/unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
