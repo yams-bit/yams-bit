@@ -8,8 +8,6 @@
 ReadME Taken From [Khcrysalis](https://github.com/khcrysalis), Check Them Out!
 #
 
-Feel free to check out the projects below, sometimes the words aren't enough
-
 <!--
 **unix/unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
