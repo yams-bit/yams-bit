@@ -1,11 +1,15 @@
-<h1 align="center">yams-bit | <span style="color:#f9826c">🌱</span></h1>
+## 🌱 About
+* Unix Developer
+* Designer, Somehow, Some Way
+* Using `Swift`, `C`, `Obj-C`, `Vue`, etc.
+* Projects: [Click Me](https://github.com/yams-bit?tab=repositories)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yams-bit&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yams-bit&layout=compact&theme=default" alt="Top Languages" width="49%">
-</p>
 
----
+ReadME Taken From [Khcrysalis](https://github.com/khcrysalis), Check Them Out!
+#
+
+Feel free to check out the projects below, sometimes the words aren't enough
+
 <!--
 **unix/unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
